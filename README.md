@@ -23,7 +23,7 @@
 
 ##  Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
 
  saideepaksharma8@gmail.com  
 
