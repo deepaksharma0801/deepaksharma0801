@@ -86,33 +86,8 @@
 - Metaheuristic cloud task scheduling → **22% makespan reduction**
 - Model optimization reducing inference latency by **15%**
 
----
 
-#  Featured Projects
 
-###  AI-Assisted Urban Block Design (GANs)
-Conditional GAN (Pix2Pix) trained on 2,000+ geospatial layouts  
-**SSIM: 0.89 | PSNR: 28.5 dB**
-
-###  Secure RAG Chatbot
-Privacy-preserving RAG system with PII anonymization  
-**92% TPR | AES-256 | TLS 1.3 | OAuth Multi-user Security**
-
-###  Vision-Based Waste Classification
-CNN-based classifier → **30% accuracy improvement**
-
-###  Space Missions Data Visualization Platform
-Analyzed **5,000+ global missions** across NASA & UNOOSA datasets
-
----
-
-#  Certifications
-
-- AWS Certified Machine Learning  
-- Google Data Analytics  
-- Microsoft Azure AI Fundamentals  
-
----
 
 #  Contribution Graph
 
