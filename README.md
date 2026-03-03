@@ -4,9 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepaksharma0801&label=Profile%20views&color=0e75b6&style=flat)
 
-🎓 MS in Data Science (Computing & Decision Analytics)  
-📍 Arizona State University | GPA: 3.8/4.0  
-🤖 AI | Machine Learning | Generative AI | MLOps | Data Analytics  
+ MS in Data Science (Computing & Decision Analytics)  
+ Arizona State University | GPA: 3.8/4.0  
+ AI | Machine Learning | Generative AI | MLOps | Data Analytics  
 
 ---
 
@@ -21,11 +21,11 @@
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Deepak%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
 
- saideepaksharma8@gmail.com  
+📧 saideepaksharma8@gmail.com
 
 ---
 
@@ -129,4 +129,4 @@ Analyzed **5,000+ global missions** across NASA & UNOOSA datasets
 
 ---
 
-⭐️ From [deepaksharma0801](https://github.com/deepaksharma0801)
+ From [deepaksharma0801](https://github.com/deepaksharma0801)
