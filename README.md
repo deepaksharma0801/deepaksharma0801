@@ -1,4 +1,3 @@
-# about-me
 
 # Sai Deepak Sharma Nadiminty
 
