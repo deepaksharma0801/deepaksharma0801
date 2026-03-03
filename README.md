@@ -1,7 +1,6 @@
 
 # Sai Deepak Sharma Nadiminty
 
-![Profile Views](https://komarev.com/ghpvc/?username=deepaksharma0801&label=Profile%20views&color=0e75b6&style=flat)
 
  MS in Data Science (Computing & Decision Analytics)  
  Arizona State University | GPA: 3.8/4.0  
