@@ -1,6 +1,6 @@
 # about-me
 
-# 🚀 Sai Deepak Sharma Nadiminty
+# Sai Deepak Sharma Nadiminty
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepaksharma0801&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,28 +10,28 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Master's student at **Arizona State University (2024–2026)**
-- 🎓 B.Tech in CSE (AI & ML)
-- 📊 Passionate about AI-driven decision systems & predictive analytics
-- 🔬 Experience in Deep Learning, Computer Vision, Reinforcement Learning
-- ☁️ Skilled in deploying scalable AI systems in cloud environments
-- 🚀 Actively building real-world AI + Data products
+-  Master's student at **Arizona State University (2024–2026)**
+-  B.Tech in CSE (AI & ML)
+-  Passionate about AI-driven decision systems & predictive analytics
+-  Experience in Deep Learning, Computer Vision, Reinforcement Learning
+-  Skilled in deploying scalable AI systems in cloud environments
+-  Actively building real-world AI + Data products
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
 
-📧 saideepaksharma8@gmail.com  
+ saideepaksharma8@gmail.com  
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
-## 👨‍💻 Programming
+##  Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🤖 AI / ML
+##  AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 Data & Analytics
+##  Data & Analytics
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
 ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi)
@@ -58,7 +58,7 @@
 
 ---
 
-## ☁️ Cloud & DevOps
+##  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
@@ -67,45 +67,45 @@
 
 ---
 
-# 💼 Experience Highlights
+#  Experience Highlights
 
-## 📈 Strategic Marketing Analyst — ASU Knowledge Enterprise
+##  Strategic Marketing Analyst — ASU Knowledge Enterprise
 - Automated marketing workflows → **40% reduction in manual effort**
 - Built predictive regression models → **25% accuracy improvement**
 - Led A/B testing across 20+ campaigns → **17% ROI increase**
 - Integrated 10+ data sources into BI dashboards
 
-## 🤖 Gen AI & ML Intern — Wipro
+##  Gen AI & ML Intern — Wipro
 - Built AI-based intent recognition system → **89% classification accuracy**
 - Designed scalable ML pipelines processing **100K+ records/month**
 - Improved enterprise workflow efficiency by **25%**
 
-## 🔬 Research Experience
+##  Research Experience
 - CNN-SVM hybrid model → **18% accuracy improvement**
 - Metaheuristic cloud task scheduling → **22% makespan reduction**
 - Model optimization reducing inference latency by **15%**
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🏙 AI-Assisted Urban Block Design (GANs)
+###  AI-Assisted Urban Block Design (GANs)
 Conditional GAN (Pix2Pix) trained on 2,000+ geospatial layouts  
 **SSIM: 0.89 | PSNR: 28.5 dB**
 
-### 🔐 Secure RAG Chatbot
+###  Secure RAG Chatbot
 Privacy-preserving RAG system with PII anonymization  
 **92% TPR | AES-256 | TLS 1.3 | OAuth Multi-user Security**
 
-### ♻️ Vision-Based Waste Classification
+###  Vision-Based Waste Classification
 CNN-based classifier → **30% accuracy improvement**
 
-### 🌌 Space Missions Data Visualization Platform
+###  Space Missions Data Visualization Platform
 Analyzed **5,000+ global missions** across NASA & UNOOSA datasets
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
 - AWS Certified Machine Learning  
 - Google Data Analytics  
@@ -113,7 +113,7 @@ Analyzed **5,000+ global missions** across NASA & UNOOSA datasets
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaksharma0801&show_icons=true&theme=tokyonight)
 
@@ -123,7 +123,7 @@ Analyzed **5,000+ global missions** across NASA & UNOOSA datasets
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaksharma0801&theme=tokyo-night)
 
