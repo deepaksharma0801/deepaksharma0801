@@ -28,42 +28,45 @@
 
 ---
 
-#  Tech Stack
+## 💻 Tech Stack
 
-##  Programming
+## 👨‍💻 Programming & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 ---
 
-##  AI / ML
+##  AI / Machine Learning / GenAI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 
 ---
 
-##  Data & Analytics
+##  Data Engineering & Analytics
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
 ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
-##  Cloud & DevOps
+##  MLOps / DevOps / Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux)
-
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 ---
 
 #  Experience Highlights
