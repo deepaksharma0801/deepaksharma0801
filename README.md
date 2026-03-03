@@ -115,16 +115,6 @@ Analyzed **5,000+ global missions** across NASA & UNOOSA datasets
 
 ---
 
-#  GitHub Stats
-
-[Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaksharma0801&show_icons=true&theme=tokyonight)
-
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepaksharma0801&theme=tokyonight)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksharma0801&layout=compact&theme=tokyonight)
-
----
-
 #  Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaksharma0801&theme=tokyo-night)
