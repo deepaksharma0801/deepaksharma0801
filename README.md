@@ -11,7 +11,7 @@
 ## About Me
 
 -  Master's student at **Arizona State University (2024–2026)**
--  B.Tech in CSE (AI & ML)
+-  Bachelors in CSE (AI & ML)
 -  Passionate about AI-driven decision systems & predictive analytics
 -  Experience in Deep Learning, Computer Vision, Reinforcement Learning
 -  Skilled in deploying scalable AI systems in cloud environments
