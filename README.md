@@ -73,7 +73,7 @@
 ##  Strategic Marketing Analyst — ASU Knowledge Enterprise
 - Automated marketing workflows → **40% reduction in manual effort**
 - Built predictive regression models → **25% accuracy improvement**
-- Led A/B testing across 20+ campaigns → **17% ROI increase**
+- Led A/B testing across 40+ campaigns → **17% ROI increase**
 - Integrated 20+ data sources into BI dashboards
 
 ##  Gen AI & ML Intern — Wipro
