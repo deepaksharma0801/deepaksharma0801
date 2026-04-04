@@ -4,7 +4,7 @@
 
  MS in Data Science (Computing & Decision Analytics)  
  Arizona State University | GPA: 3.8/4.0  
- AI | Machine Learning | Generative AI | MLOps | Data Analytics  
+ Agentic AI | Machine Learning | Generative AI | MLOps | Data Analytics  
 
 ---
 
