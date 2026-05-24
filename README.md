@@ -71,7 +71,7 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 
 ## Experience Highlights
 
-| Strategic Marketing Analyst | Gen AI & ML Intern |
+| SAI Automations and Data Analyst | Gen AI & ML Intern |
 |---|---|
 | **ASU Knowledge Enterprise** | **Wipro** |
 | Automated marketing workflows, reducing manual effort by **40%**. | Built an AI-based intent recognition system with **89%** classification accuracy. |
