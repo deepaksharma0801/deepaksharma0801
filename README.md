@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=I+like+the+messy+middle%3A+data%2C+models%2C+users%2C+deployment.;I+ask+models+why+they+failed.+They+rarely+answer+politely.;Building+AI+that+is+useful%2C+measurable%2C+and+honest.;MS+Data+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
 
+[![Echelix Role](https://img.shields.io/badge/Echelix-Associate%20AI%20Dev-10b981?style=for-the-badge&logo=probot&logoColor=white)](https://echelix.com/)
 [![Email](https://img.shields.io/badge/Email-saideepaksharma8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saideepaksharma8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20The%20Work-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepaksharma0801.github.io/Sai-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Deepak%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
@@ -12,11 +13,11 @@
 
 ## I Like Building The Part Where AI Becomes Real
 
-Most models look great in a notebook. I care about what happens after that: the messy data, the edge cases, the people using the system, the dashboard someone checks at 8 AM, and the quiet question of whether the model actually helped.
+Currently, I work as an **Associate AI Developer at [Echelix](https://echelix.com/)**, where I design and build autonomous agentic architectures that automate complex, multi-step enterprise workflows. Echelix specializes in deploying intelligent, domain-specific AI solutions that bridge the gap between raw LLM reasoning and reliable business execution—a mission that fits my core obsession: taking AI out of pristine Jupyter notebooks and making it survive messy data, edge cases, and real-world users.
+
+I am also completing my Master's in **Data Science, Computing & Decision Analytics at Arizona State University** with a **3.8/4.0 GPA**, focused on **Agentic AI, Machine Learning Systems, Generative AI, and MLOps**. Whether I am engineering agent tool-calling pipelines at Echelix or building predictive analytics models, I care about what happens after deployment: the dashboard someone checks at 8 AM, the system failing visibly instead of silently, and the quiet question of whether the model actually helped.
 
 I like clean metrics, but I do not fully trust them until they survive real data, impatient users, and at least one "wait, why is this number so weird?" moment.
-
-I am a Master's student in **Data Science, Computing & Decision Analytics at Arizona State University** with a **3.8/4.0 GPA**, focused on **Agentic AI, Machine Learning, Generative AI, MLOps, and Data Analytics**. I build AI systems that move from idea to measurable outcome: predictive models, intent systems, BI dashboards, automation workflows, and deployable ML pipelines.
 
 ## Start With My Portfolio
 
@@ -43,7 +44,7 @@ My portfolio is the best place to see the work behind this profile: projects, de
 
 | Role | Focus | Strengths | Builder Mode |
 |---|---|---|---|
-| MS Data Science student at Arizona State University | Agentic AI, GenAI, ML systems | Predictive modeling, CV, NLP, BI | Ship the useful thing, then make it smarter |
+| Associate AI Developer @ Echelix & MS Data Science @ ASU | Agentic AI, GenAI, ML systems | Predictive modeling, CV, NLP, BI | Ship the useful thing, then make it smarter |
 
 | Data | Features | Models | Evaluation | Deployment | Decisions |
 |---|---|---|---|---|---|
@@ -63,7 +64,7 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 |---|---|
 | Programming | Python, SQL, MATLAB, Git |
 | Machine Learning | TensorFlow, PyTorch, Scikit-Learn, XGBoost, OpenCV |
-| GenAI / NLP | Hugging Face, LangChain, spaCy, intent recognition systems |
+| GenAI / NLP | Hugging Face, LangChain, spaCy, intent recognition systems, Agent architectures |
 | Data & BI | Pandas, NumPy, SciPy, PostgreSQL, MySQL, Power BI, Tableau, Excel |
 | Cloud & MLOps | AWS, Google Cloud, Azure, CI/CD, scalable ML pipelines |
 
@@ -71,13 +72,12 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 
 ## Experience Highlights
 
-| AI Automations and Data Analyst | Gen AI & ML Intern |
-|---|---|
-| **ASU Knowledge Enterprise** | **Wipro** |
-| Automated marketing workflows, reducing manual effort by **40%**. | Built an AI-based intent recognition system with **89%** classification accuracy. |
-| Built predictive regression models with a **25%** accuracy improvement. | Designed scalable ML pipelines processing **100K+** records per month. |
-| Led A/B testing across **40+** campaigns, increasing ROI by **17%**. | Improved enterprise workflow efficiency by **25%**. |
-| Integrated **20+** data sources into BI dashboards. | Worked across model development, evaluation, and deployment workflows. |
+| Associate AI Developer | AI Automations and Data Analyst | Gen AI & ML Intern |
+|---|---|---|
+| **[Echelix](https://echelix.com/)** | **ASU Knowledge Enterprise** | **Wipro** |
+| Building autonomous agentic workflows and multi-tool LLM architectures. | Automated marketing workflows, reducing manual effort by **40%**. | Built an AI-based intent recognition system with **89%** classification accuracy. |
+| Designing domain-specific AI agents for complex enterprise execution. | Built predictive regression models with a **25%** accuracy improvement. | Designed scalable ML pipelines processing **100K+** records per month. |
+| Integrating LLM reasoning with reliable, production-grade business pipelines. | Led A/B testing across **40+** campaigns, increasing ROI by **17%**. | Improved enterprise workflow efficiency by **25%**. |
 
 ---
 
@@ -96,7 +96,7 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 
 | Product Area | What I Build |
 |---|---|
-| Agentic AI Systems | LLM workflows, tool use, automation, decision support |
+| Agentic AI Systems | LLM workflows, autonomous tool use, multi-agent enterprise execution |
 | Predictive Intelligence | Regression, classification, experimentation, optimization |
 | Computer Vision | CNNs, OpenCV, hybrid model design, inference tuning |
 | Analytics Products | Dashboards, KPI systems, BI pipelines, A/B testing |
@@ -105,13 +105,21 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 
 ## GitHub Intelligence Dashboard
 
+### Overview & Streak
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksharma0801&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksharma0801&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=deepaksharma0801&theme=tokyonight&hide_border=true)
 
-![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepaksharma0801&theme=tokyonight)
+### Code & Language Analytics
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepaksharma0801&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepaksharma0801&theme=tokyonight)
 
+### Productivity & Commit Habits
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepaksharma0801&theme=tokyonight)
+![Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepaksharma0801&theme=tokyonight)
+
+### Milestones & Trophies
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=deepaksharma0801&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6)
 
 ---
@@ -135,7 +143,7 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 
 ## Let's Connect
 
-I am always open to conversations around AI products, ML engineering, data science internships, research collaborations, and applied decision systems. For the clearest view of my work, start with the portfolio.
+I am always open to conversations around agentic AI products, ML engineering, data science roles, research collaborations, and applied decision systems. For the clearest view of my work, start with the portfolio.
 
 [![Reach Me By Email](https://img.shields.io/badge/Reach%20Me%20By%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saideepaksharma8@gmail.com)
 [![View My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-See%20The%20Work-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepaksharma0801.github.io/Sai-Portfolio/)
