@@ -15,7 +15,7 @@
 
 Currently, I work as an **Associate AI Developer at [Echelix](https://echelix.com/)**, where I design and build autonomous agentic architectures that automate complex, multi-step enterprise workflows. Echelix specializes in deploying intelligent, domain-specific AI solutions that bridge the gap between raw LLM reasoning and reliable business execution—a mission that fits my core obsession: taking AI out of pristine Jupyter notebooks and making it survive messy data, edge cases, and real-world users.
 
-I am also completing my Master's in **Data Science, Computing & Decision Analytics at Arizona State University** with a **3.8/4.0 GPA**, focused on **Agentic AI, Machine Learning Systems, Generative AI, and MLOps**. Whether I am engineering agent tool-calling pipelines at Echelix or building predictive analytics models, I care about what happens after deployment: the dashboard someone checks at 8 AM, the system failing visibly instead of silently, and the quiet question of whether the model actually helped.
+I also hold a Master's in **Data Science, Computing & Decision Analytics from Arizona State University** with a **3.8/4.0 GPA**, focused on **Agentic AI, Machine Learning Systems, Generative AI, and MLOps**. Whether I am engineering agent tool-calling pipelines at Echelix or building predictive analytics models, I care about what happens after deployment: the dashboard someone checks at 8 AM, the system failing visibly instead of silently, and the quiet question of whether the model actually helped.
 
 I like clean metrics, but I do not fully trust them until they survive real data, impatient users, and at least one "wait, why is this number so weird?" moment.
 
