@@ -96,7 +96,7 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 
 | Product Area | What I Build |
 |---|---|
-| Agentic AI Systems | LLM workflows, autonomous tool use, multi-agent enterprise execution |
+| Agentic AI Systems | LLM workflows, autonomous tool use,System design, multi-agent enterprise execution |
 | Predictive Intelligence | Regression, classification, experimentation, optimization |
 | Computer Vision | CNNs, OpenCV, hybrid model design, inference tuning |
 | Analytics Products | Dashboards, KPI systems, BI pipelines, A/B testing |
