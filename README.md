@@ -11,7 +11,7 @@
 
 ---
 
-## I Like Building The Part Where AI Becomes Real
+## I Like Building The Part Where AI Becomes Real and scalable
 
 Currently, I work as an **Associate AI Developer at [Echelix](https://echelix.com/)**, where I design and build autonomous agentic architectures that automate complex, multi-step enterprise workflows. Echelix specializes in deploying intelligent, domain-specific AI solutions that bridge the gap between raw LLM reasoning and reliable business execution—a mission that fits my core obsession: taking AI out of pristine Jupyter notebooks and making it survive messy data, edge cases, and real-world users.
 
