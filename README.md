@@ -54,25 +54,8 @@ Small operating belief: if a model cannot explain itself to a stakeholder or sur
 
 Tools change. The habit I keep: understand the problem, build the baseline, measure honestly, then add complexity only when it earns its rent.
 
-| Layer | Tools |
-|---|---|
-| Programming | Python, SQL, MATLAB, Git |
-| Machine Learning | TensorFlow, PyTorch, Scikit-Learn, XGBoost, OpenCV |
-| GenAI / NLP | Hugging Face, LangChain, spaCy, intent recognition systems, Agent architectures |
-| Data & BI | Pandas, NumPy, SciPy, PostgreSQL, MySQL, Power BI, Tableau, Excel |
-| Cloud & MLOps | AWS, Google Cloud, Azure, CI/CD, scalable ML pipelines |
 
 ---
-
-
----
-## GitHub Intelligence Dashboard
-
-### Overview & Streak
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksharma0801&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksharma0801&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub streak](https://streak-stats.demolab.com?user=deepaksharma0801&theme=tokyonight&hide_border=true)
 
 ### Code & Language Analytics
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepaksharma0801&theme=tokyonight)
