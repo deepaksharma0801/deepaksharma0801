@@ -61,10 +61,6 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepaksharma0801&theme=tokyonight)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepaksharma0801&theme=tokyonight)
 
-### Productivity & Commit Habits
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepaksharma0801&theme=tokyonight)
-![Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepaksharma0801&theme=tokyonight)
-
 
 ## What I Am Building Toward
 
