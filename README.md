@@ -70,39 +70,8 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 
 ---
 
-## Experience Highlights
-
-| Associate AI Developer | AI Automations and Data Analyst | Gen AI & ML Intern |
-|---|---|---|
-| **[Echelix](https://echelix.com/)** | **ASU Knowledge Enterprise** | **Wipro** |
-| Building autonomous agentic workflows and multi-tool LLM architectures. | Automated marketing workflows, reducing manual effort by **40%**. | Built an AI-based intent recognition system with **89%** classification accuracy. |
-| Designing domain-specific AI agents for complex enterprise execution. | Built predictive regression models with a **25%** accuracy improvement. | Designed scalable ML pipelines processing **100K+** records per month. |
-| Integrating LLM reasoning with reliable, production-grade business pipelines. | Led A/B testing across **40+** campaigns, increasing ROI by **17%**. | Improved enterprise workflow efficiency by **25%**. |
 
 ---
-
-## Research & Applied AI
-
-| Area | Work | Outcome |
-|---|---|---|
-| Computer Vision | CNN-SVM hybrid modeling | 18% accuracy improvement |
-| Cloud Optimization | Metaheuristic task scheduling | 22% makespan reduction |
-| Model Optimization | Inference pipeline refinement | 15% latency reduction |
-| Decision Analytics | Predictive modeling and BI dashboards | Faster campaign and operations insight |
-
----
-
-## AI Product Builder Map
-
-| Product Area | What I Build |
-|---|---|
-| Agentic AI Systems | LLM workflows, autonomous tool use,System design, multi-agent enterprise execution |
-| Predictive Intelligence | Regression, classification, experimentation, optimization |
-| Computer Vision | CNNs, OpenCV, hybrid model design, inference tuning |
-| Analytics Products | Dashboards, KPI systems, BI pipelines, A/B testing |
-
----
-
 ## GitHub Intelligence Dashboard
 
 ### Overview & Streak
