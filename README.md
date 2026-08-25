@@ -65,16 +65,6 @@ Tools change. The habit I keep: understand the problem, build the baseline, meas
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepaksharma0801&theme=tokyonight)
 ![Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepaksharma0801&theme=tokyonight)
 
-### Milestones & Trophies
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=deepaksharma0801&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6)
-
----
-
-## Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaksharma0801&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline)
-
----
 
 ## What I Am Building Toward
 
