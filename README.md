@@ -25,12 +25,6 @@ My portfolio is the best place to see the work behind this profile: projects, de
 
 [![Open Portfolio](https://img.shields.io/badge/Open%20Portfolio-Project%20Case%20Studies%20%26%20AI%20Work-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepaksharma0801.github.io/Sai-Portfolio/)
 
-| What I Am Drawn To | Why |
-|---|---|
-| Honest AI | Systems that admit uncertainty, fail visibly, and improve with evidence |
-| Decision Intelligence | Models that help people choose faster, not just produce scores |
-| Production ML | Pipelines, monitoring, deployment, and the useful parts nobody puts in keynote slides |
-| Human-Centered Analytics | Dashboards and workflows that people can actually trust and use |
 
 | Impact | Evidence |
 |---|---|
