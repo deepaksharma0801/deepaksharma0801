@@ -17,8 +17,6 @@ Currently, I work as an **Associate AI Developer at [Echelix](https://echelix.co
 
 I also hold a Master's in **Data Science, Computing & Decision Analytics from Arizona State University** with a **3.8/4.0 GPA**, focused on **Agentic AI, Machine Learning Systems, Generative AI, and MLOps**. Whether I am engineering agent tool-calling pipelines at Echelix or building predictive analytics models, I care about what happens after deployment: the dashboard someone checks at 8 AM, the system failing visibly instead of silently, and the quiet question of whether the model actually helped.
 
-I like clean metrics, but I do not fully trust them until they survive real data, impatient users, and at least one "wait, why is this number so weird?" moment.
-
 ## Start With My Portfolio
 
 My portfolio is the best place to see the work behind this profile: projects, design choices, technical direction, and how I think through AI/data products from problem to outcome.
