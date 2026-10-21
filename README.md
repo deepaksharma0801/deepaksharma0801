@@ -11,7 +11,7 @@ I'm Deepak, an **Associate AI Developer at [Echelix](https://echelix.com/)**. I 
 
 Most AI dies somewhere between the notebook and the real world. That gap is my favourite place to work: messy data, weird edge cases, real users, and the 8 AM dashboard someone actually opens.
 
-> If a model can't explain itself to a stakeholder or survive messy input, it's still a prototype wearing a nice jacket.
+> The model is ready for production. Production is not ready for the model.
 
 [![Portfolio: see the work](https://img.shields.io/badge/portfolio-see_the_work-ffa657?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22)](https://deepaksharma0801.github.io/Sai-Portfolio/)
 [![LinkedIn: let's connect](https://img.shields.io/badge/linkedin-let%27s_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
