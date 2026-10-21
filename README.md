@@ -6,15 +6,15 @@
 </a>
 
 
-I'm Deepak, an **Associate AI Developer at [Echelix](https://echelix.com/)**. 
+I'm Deepak, an **Associate AI Developer at [Echelix](https://echelix.com/)**.
 
-I will get this straight. I like a tough challenge and I dont like to not know the answers. 
+I will get this straight. I like a tough challenge and I don't like to not know the answers.
 
 I build agentic systems that take messy, multi-step enterprise work off people's plates, and keep doing it long after the demo applause fades.
 
-Most AI dies somewhere between the notebook and the real world. That gap is my favourite place to work: messy data, weird edge cases, real users, and the 8 AM dashboard someone actually opens,an agent which actually works for real Users. 
+Most AI dies somewhere between the notebook and the real world. That gap is my favourite place to work: messy data, weird edge cases, real users, and the 8 AM dashboard someone actually opens, an agent which actually works for real users.
 
-real problems, real impact.
+Real problems, real impact.
 
 > The model is ready for production. Production is not ready for the model.
 
