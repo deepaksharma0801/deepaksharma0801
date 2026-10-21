@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-## i teach LLMs to show up to work 👋
+## i teach LLMs to show up to work
 
 I'm Deepak, an **Associate AI Developer at [Echelix](https://echelix.com/)**. I build agentic systems that take messy, multi-step enterprise work off people's plates, and keep doing it long after the demo applause fades.
 
