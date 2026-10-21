@@ -1,82 +1,30 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:0ea5e9,100:f97316&text=Sai%20Deepak%20Sharma%20Nadiminty&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20turn%20messy%20data%20into%20useful%20decisions&descAlignY=58&descSize=16)
+<a href="https://deepaksharma0801.github.io/Sai-Portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./model-card-dark.svg">
+    <img alt="Model card for Sai Deepak Sharma: AI developer at Echelix, MS Data Science at ASU. Evals: 40% less manual effort, 89% intent accuracy, 100K+ records a month." src="./model-card-light.svg">
+  </picture>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=I+like+the+messy+middle%3A+data%2C+models%2C+users%2C+deployment.;I+ask+models+why+they+failed.+They+rarely+answer+politely.;Building+AI+that+is+useful%2C+measurable%2C+and+honest.;MS+Data+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
+### hey, i'm deepak 👋
 
-[![Echelix Role](https://img.shields.io/badge/Echelix-Associate%20AI%20Dev-10b981?style=for-the-badge&logo=probot&logoColor=white)](https://echelix.com/)
-[![Email](https://img.shields.io/badge/Email-saideepaksharma8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saideepaksharma8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20The%20Work-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepaksharma0801.github.io/Sai-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Deepak%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
-[![GitHub](https://img.shields.io/badge/GitHub-deepaksharma0801-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksharma0801)
-![Profile views](https://komarev.com/ghpvc/?username=deepaksharma0801&style=for-the-badge&color=0ea5e9)
+I build AI agents that do real work, not demo work. Currently an **Associate AI Developer at [Echelix](https://echelix.com/)**, teaching LLMs to survive messy data, weird edge cases, and actual users.
 
----
+> If a model can't explain itself to a stakeholder or survive messy input, it's still a prototype wearing a nice jacket.
 
-## I Like Building The Part Where AI Becomes Real and scalable
+**[portfolio](https://deepaksharma0801.github.io/Sai-Portfolio/)** · **[linkedin](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)** · **[email](mailto:saideepaksharma8@gmail.com)**
 
-Currently, I work as an **Associate AI Developer at [Echelix](https://echelix.com/)**, where I design and build autonomous agentic architectures that automate complex, multi-step enterprise workflows. Echelix specializes in deploying intelligent, domain-specific AI solutions that bridge the gap between raw LLM reasoning and reliable business execution—a mission that fits my core obsession: taking AI out of pristine Jupyter notebooks and making it survive messy data, edge cases, and real-world users.
+### training logs 📈
 
-I also hold a Master's in **Data Science, Computing & Decision Analytics from Arizona State University** with a **3.8/4.0 GPA**, focused on **Agentic AI, Machine Learning Systems, Generative AI, and MLOps**. Whether I am engineering agent tool-calling pipelines at Echelix or building predictive analytics models, I care about what happens after deployment: the dashboard someone checks at 8 AM, the system failing visibly instead of silently, and the quiet question of whether the model actually helped.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=deepaksharma0801&theme=github-dark-blue&hide_border=true&background=0d1117">
+  <img alt="GitHub commit streak" src="https://streak-stats.demolab.com?user=deepaksharma0801&hide_border=true">
+</picture>
 
-## Start With My Portfolio
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepaksharma0801/deepaksharma0801/output/github-contribution-grid-snake-dark.svg">
+  <img alt="A snake eating my contribution grid" src="https://raw.githubusercontent.com/deepaksharma0801/deepaksharma0801/output/github-contribution-grid-snake.svg">
+</picture>
 
-My portfolio is the best place to see the work behind this profile: projects, design choices, technical direction, and how I think through AI/data products from problem to outcome.
+<sub>the snake eats my commits daily. i keep feeding it anyway.</sub>
 
-[![Open Portfolio](https://img.shields.io/badge/Open%20Portfolio-Project%20Case%20Studies%20%26%20AI%20Work-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepaksharma0801.github.io/Sai-Portfolio/)
-
-
-| Impact | Evidence |
-|---|---|
-| ![40 percent manual effort reduction](https://img.shields.io/badge/Manual%20Effort%20Reduced-40%25-22c55e?style=for-the-badge) | Workflow automation at ASU Knowledge Enterprise |
-| ![89 percent intent recognition accuracy](https://img.shields.io/badge/Intent%20Accuracy-89%25-38bdf8?style=for-the-badge) | AI-based enterprise intent recognition |
-| ![100K plus records per month](https://img.shields.io/badge/Records%20Processed-100K%2B%2Fmonth-f97316?style=for-the-badge) | Scalable ML pipeline processing |
-
----
-
-## Current Signal
-
-| Role | Focus | Strengths | Builder Mode |
-|---|---|---|---|
-| Associate AI Developer @ Echelix & MS Data Science @ ASU | Agentic AI, GenAI, ML systems | Predictive modeling, CV, NLP, BI | Ship the useful thing, then make it smarter |
-
-| Data | Features | Models | Evaluation | Deployment | Decisions |
-|---|---|---|---|---|---|
-| Multi-source ingestion | Analytics engineering | ML, DL, NLP, CV | Metrics and experiments | Cloud + MLOps | Dashboards and automation |
-
-Small operating belief: if a model cannot explain itself to a stakeholder or survive messy input, it is still a prototype wearing a nice jacket.
-
----
-
-## Technical Arsenal
-
-![Core technical stack](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,mysql,aws,gcp,azure,git,github&perline=6)
-
-Tools change. The habit I keep: understand the problem, build the baseline, measure honestly, then add complexity only when it earns its rent.
-
-
----
-
-### Code & Language Analytics
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepaksharma0801&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepaksharma0801&theme=tokyonight)
-
-
-## What I Am Building Toward
-
-| Direction | Why It Matters |
-|---|---|
-| Agentic AI systems | Connect LLM reasoning with real business workflows |
-| Predictive analytics products | Help teams make faster, data-backed decisions |
-| Scalable ML pipelines | Improve reproducibility, monitoring, and deployment speed |
-| Decision dashboards | Translate model output into operational clarity |
-
----
-
-## Let's Connect
-
-I am always open to conversations around agentic AI products, ML engineering, data science roles, research collaborations, and applied decision systems. For the clearest view of my work, start with the portfolio.
-
-[![Reach Me By Email](https://img.shields.io/badge/Reach%20Me%20By%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saideepaksharma8@gmail.com)
-[![View My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-See%20The%20Work-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepaksharma0801.github.io/Sai-Portfolio/)
-[![Connect On LinkedIn](https://img.shields.io/badge/Connect%20On%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:f97316,45:0ea5e9,100:0f172a)
+<sub>this README has a 0% hallucination rate. the projects below are real, pinned, and mildly over-engineered.</sub>
