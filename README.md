@@ -5,11 +5,16 @@
   </picture>
 </a>
 
-## i teach LLMs to show up to work
 
-I'm Deepak, an **Associate AI Developer at [Echelix](https://echelix.com/)**. I build agentic systems that take messy, multi-step enterprise work off people's plates, and keep doing it long after the demo applause fades.
+I'm Deepak, an **Associate AI Developer at [Echelix](https://echelix.com/)**. 
 
-Most AI dies somewhere between the notebook and the real world. That gap is my favourite place to work: messy data, weird edge cases, real users, and the 8 AM dashboard someone actually opens.
+I will get this straight. I like a tough challenge and I dont like to not know the answers. 
+
+I build agentic systems that take messy, multi-step enterprise work off people's plates, and keep doing it long after the demo applause fades.
+
+Most AI dies somewhere between the notebook and the real world. That gap is my favourite place to work: messy data, weird edge cases, real users, and the 8 AM dashboard someone actually opens,an agent which actually works for real Users. 
+
+real problems, real impact.
 
 > The model is ready for production. Production is not ready for the model.
 
