@@ -16,7 +16,7 @@ Most AI dies somewhere between the notebook and the real world. That gap is my f
 
 Real problems, real impact.
 
-"My model is ready for production. Production is not ready for my model."
+"My model is ready for production but production is not ready for my model"
 
 [![Portfolio: see the work](https://img.shields.io/badge/portfolio-see_the_work-ffa657?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22)](https://deepaksharma0801.github.io/Sai-Portfolio/)
 [![LinkedIn: let's connect](https://img.shields.io/badge/linkedin-let%27s_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/sai-deepak-sharma-09518b210/)
